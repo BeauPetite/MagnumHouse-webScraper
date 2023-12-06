@@ -1,2 +1,6 @@
-# webScraper
- A web scraper customized for use inside Magnum House.
+#Web Skimmer 
+####### 
+  - Python Based
+  - Created By: Beau
+  - For MagnumHouse.iT internal use
+
